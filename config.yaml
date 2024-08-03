@@ -1,0 +1,8 @@
+path : Downloads/Valorant Training data
+train : images
+val : images
+
+names:
+    0: Head
+    1: TeamMate
+    2: Enemy
