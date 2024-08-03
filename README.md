@@ -1,2 +1,4 @@
 # Valorant-Aimbot-Ongoing-
-Making an valorant Aimbot Using yolov8
+DISCLAIMER: CHEATING ON GAMES IS UNETHICAL AND I DO NOT PROMOTE ANY SUCH ACTIVITES. THIS PROJECT IS ONLY FOR EDUCATIONAL PURPOSE.
+
+This is an Ongoing project to make an valorant Aimbot Using yolov8.
